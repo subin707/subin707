@@ -1,16 +1,15 @@
-## Hi there 👋
+# 안녕하세요
 
-<!--
-**subin707/subin707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+컴퓨터공학과에 재학 중인 박수빈입니다.
 
-Here are some ideas to get you started:
+## 관심 분야
+- 소프트웨어 개발
+- 인공지능
+- 프로그래밍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 현재 학습 중
+- C 언어
+- Python
+
+## 목표 
+AI 기술을 활용할 수 있는 소프트웨어 개발자가 되는 것
